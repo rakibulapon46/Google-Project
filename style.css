@@ -67,7 +67,7 @@ section .main .searchbox {
 }
 
 section .main .searchbox .search{
-    width: 100%;
+    width: 90%;
     padding: 13px;
     border-radius: 30px;
     padding-left: 45px;
@@ -156,7 +156,7 @@ section{
 }
 
     section .main .searchbox .search{
-        width: 73%;
+        width: 68%;
 }
 section .main .searchbox .icons{
     width: 88%;
